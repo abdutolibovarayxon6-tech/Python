@@ -1,1 +1,2 @@
-Helo, bu test file, men file file yartdim nano bilan
+#Helo, bu test file, men file file yartdim nano bilan
+print ("Hello world")
